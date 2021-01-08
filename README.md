@@ -1,2 +1,4 @@
-# simple_wifi_password
+# Simple wifi password
 A simple script to retrieve stored wifi passwords on linux systems.
+
+Syntax: python3 wifi_passwords.py
